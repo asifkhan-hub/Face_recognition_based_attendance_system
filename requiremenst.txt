@@ -1,0 +1,18 @@
+Subscribe My Youtube Channel for more Project like this ....Apycoder
+Install All the modules mentioned below 
+
+
+pip install tk-tools
+pip install opencv-contrib-python
+pip install datetime
+pip install pytest-shutil
+pip install python-csv
+pip install numpy
+pip install pillow 
+pip install pandas
+pip install times
+
+
+For Python 3.x:
+python3 -m tkinter
+sudo apt-get install python3-tk
